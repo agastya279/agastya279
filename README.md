@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Agastya N6 👋
+# Hi there, I'm Agastya Naik 👋
 
 **Full-Stack Builder, Curious Tinkerer & Weekend Explorer**
 
@@ -25,7 +25,7 @@ I'm a **student** **developer** from **[Abu Dhabi]** who enjoys **[Vibing with m
 * 🔭 **Currently working on:** [SEED school project]
 * 🌱 **Currently learning:** [java]
 * ⚡ **Fun fact:** [My account was suspended in 1 hour of creation idk why]
-* 📫 **Reach me at:** [you@example.com](mailto:you@example.com)
+* 📫 **Reach me at:** [agastyanaik@proton.me](mailto:agastyanaik@proton.me)
 
 ---
 
@@ -35,11 +35,9 @@ Here is what keeps me busy when I step away from my main screen:
 
 | Category | What I Do | Current Focus / Favorites |
 | :--- | :--- | :--- |
-| 📚 **Reading** | [Fiction / Non-fiction / Sci-Fi / History] | *Currently reading:* [Book Title] by [Author] |
-| 🎮 **Gaming** | [Strategy / RPGs / Indie / Co-op] | *Favorite titles:* [Game 1], [Game 2] |
-| 🎧 **Music & Audio** | [Playlists / Instruments / Podcasts / Vinyl] | *On repeat:* [Artist, Genre, or Podcast] |
-| 🏃 **Fitness & Outdoors** | [Running / Hiking / Gym / Cycling / Sports] | *Current goal:* [e.g., 10K run, trail hike, consistency] |
-| 🍳 **Food & Craft** | [Cooking / Coffee brewing / Photography / DIY] | *Go-to creation:* [e.g., pour-over coffee, homemade pasta, street shots] |
+| 📚 **Reading** | [Fiction / Non-fiction / Sci-Fi / History] | *Currently reading:* [Non Fiction by] by [B.B Lal] |
+| 🎧 **Music & Audio** | [Playlists / Instruments / Podcasts / Vinyl] | *On repeat:* [Oasis t-t] |
+| 🏃 **Fitness & Outdoors** | [Running / Hiking / Gym / Cycling / Sports] | *Current goal:* [, 10K run, trail hike, consistency]
 
 <details>
 <summary><strong>✨ More details on my hobbies & routines</strong></summary>
