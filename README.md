@@ -39,16 +39,6 @@ Here is what keeps me busy when I step away from my main screen:
 | 🎧 **Music & Audio** | [Playlists / Instruments / Podcasts / Vinyl] | *On repeat:* [Oasis t-t] |
 | 🏃 **Fitness & Outdoors** | [Running / Hiking / Gym / Cycling / Sports] | *Current goal:* [, 10K run, trail hike, consistency]
 
-<details>
-<summary><strong>✨ More details on my hobbies & routines</strong></summary>
-
-* **Media & Entertainment:** [Favorite movies, shows, anime, or YouTube channels]
-* **Creative / Hands-On:** [Drawing, coding side-toys, woodworking, keyboard modding, etc.]
-* **Travel & Places:** [Places you've visited or want to visit next]
-* **Daily / Weekly Reset:** [How you unwind—e.g., morning coffee walks, weekend board games]
-
-</details>
-
 ---
 
 ## 🛠️ Tools & Stack
@@ -63,13 +53,6 @@ Here is what keeps me busy when I step away from my main screen:
 ![Notion](https://shields.io)
 
 </div>
-
----
-
-## 📌 Quick Highlights
-
-* **Favorite Quote:** *"[Insert a quote that resonates with you]"* — [Author]
-* **Collaboration Vibe:** Always down to chat about **[hobby topic]**, swap **[book/game/music] recommendations**, or brainstorm **[project ideas]**.
 
 ---
 
