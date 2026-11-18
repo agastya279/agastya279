@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Agastya N6 👋
 
-**[Your Tagline / Role — e.g., Full-Stack Builder, Curious Tinkerer & Weekend Explorer]**
+**Full-Stack Builder, Curious Tinkerer & Weekend Explorer**
 
 [![Location](https://shields.io)](#)
 [![Status](https://shields.io)](#)
@@ -20,12 +20,11 @@
 
 ## 🧭 About Me
 
-I'm a **[your profession/student status/background]** from **[your city/region]** who enjoys **[what you love building, solving, or exploring]**. Outside of day-to-day projects, I spend my free time experimenting with new ideas, learning hands-on skills, and diving deep into personal hobbies.
+I'm a **student** **developer** from **[Abu Dhabi]** who enjoys **[Vibing with music and stuff]**. Outside of day-to-day projects, I spend my free time experimenting with new ideas, learning hands-on skills, and diving deep into personal hobbies.
 
-* 🔭 **Currently working on:** [Main Project or Goal]
-* 🌱 **Currently learning:** [New Skill, Language, or Topic]
-* 💡 **Core interests:** [Topic 1], [Topic 2], [Topic 3]
-* ⚡ **Fun fact:** [A quick, memorable detail about you]
+* 🔭 **Currently working on:** [SEED school project]
+* 🌱 **Currently learning:** [java]
+* ⚡ **Fun fact:** [My account was suspended in 1 hour of creation idk why]
 * 📫 **Reach me at:** [you@example.com](mailto:you@example.com)
 
 ---
